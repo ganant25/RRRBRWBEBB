@@ -1,0 +1,25 @@
+.footer-wrapper{
+    
+        position: sticky;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+     
+      
+}
+
+.footer-container{
+  
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: rgb(241 232 235);
+    height: 110px;
+}
+.first-row{
+    width: "-webkit-fill-available";
+    flex: auto;
+    padding-left: 0px;
+    padding-right: 292px;
+}

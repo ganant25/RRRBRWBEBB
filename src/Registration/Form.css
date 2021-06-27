@@ -1,0 +1,176 @@
+
+h3{
+ 
+  padding: 0px 0px 18px;
+}
+
+
+body{
+  height: 85vh !important;
+
+}
+
+
+.row{
+    /* height: 70%; */
+    position: relative;
+   
+}
+
+.container{
+    width: 90% !important;
+    box-sizing: border-box;
+    position: relative;
+   
+   height: 60%;
+  
+}
+
+.form-wrapper{
+  background-color: #ffffff !important;
+  width: 100% !important;
+}
+
+.form-container {
+    position: relative !important;
+}
+
+.form {
+    position: relative;
+  
+    height: 100%;
+  margin-top: 0 !important;
+   
+    justify-content: center;
+    align-items: center;
+  }
+
+
+.form-label {
+    display: inline-block;
+   
+    margin-bottom: 6px;
+  
+  }
+
+.form-inputs {
+    margin-bottom: 1.2rem;
+    width: 80%;
+  }
+
+.form-input {
+    display: block;
+    padding-left: 10px;
+    outline: none;
+    border-radius: 2px;
+    height: 40px;
+    width: 100%;
+    border: none;
+    background-color: rgb(240, 240, 240);
+  }
+
+
+.form-input-radio{
+    display: block;
+    padding-left: 10px;
+    outline: none;
+   
+    border: none;
+    background-color: rgb(240, 240, 240);
+}
+
+
+
+  .form-input-btn {
+    width: -webkit-fill-available;
+    background: red !important;
+    background-attachment: fixed;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+  }
+
+  .form-input-btn:hover {
+    cursor: pointer;
+    background: linear-gradient(
+      90deg,
+      rgb(0, 0, 0) 0%,
+      rgb(0, 0, 0) 100%
+    );
+    transition: all 0.4s ease-out;
+  }
+
+  p{
+
+  }
+
+  .terms{
+    display: inline-block;
+  }
+
+.error{font-size: 9px;
+  color: red;
+  font-weight: 100;
+  padding-bottom: 0%;
+  display: flex;
+  margin-bottom: 0;
+  margin-top: 0px;
+  padding-top: 0;
+}
+
+
+
+.textWhite {
+  color: #020202 !important;
+  font-weight: 150 !important;
+}
+
+.bgColor, .btnDesignCls:hover {
+  background-color: #ffffff;
+}
+
+
+
+
+
+
+/* New Css */
+body{
+  background-color: #ffffff;
+}
+
+
+
+.form-wrapper  {
+  margin-top: 75px;
+}
+
+
+.error{font-size: 9px;
+  color: red;
+  font-weight: 100;
+  padding-bottom: 0%;
+  display: flex;
+  margin-bottom: 0;
+  margin-top: 0px;
+  padding-top: 0;
+}
+
+.select{
+
+
+  display: block;
+  padding-left: 10px;
+  outline: none;
+  border-radius: 2px;
+  height: 40px;
+  width: 100%;
+  border: none;
+
+}
+
+.registration{
+  width: 100%;
+}
